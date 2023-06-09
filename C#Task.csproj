@@ -7,9 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="tier3_question\" />
-    <Folder Include="tier2_question\" />
-  </ItemGroup>
-
 </Project>
